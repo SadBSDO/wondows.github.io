@@ -1,0 +1,5 @@
+title: Unknownstone Place
+description: "Unknownstone's Place of things, anything."
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme 
